@@ -16,8 +16,8 @@ with open('emails.csv','r') as file:
         email_receiver.extend(i)
         
 email_sender = 'csaaunom@gmail.com'
-email_password = 'czpmbjtmcdjgstim'
-# email_receiver = 'deviyani492@gmail.com'
+email_password = '***********'
+# email_receiver = '#'
 
 subject = 'CSAA Alumni invitation!!'
 body = '''Dear Alumni !,
